@@ -22,7 +22,7 @@ import org.json.simple.parser.JSONParser;
 public class MailServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
-	 private static final String JSON_FILE = "D:\\Vinayak-Intern\\OneDrive - EDS Technologies Pvt Ltd\\Desktop\\Eclipse\\TravelManagementSystem\\application.json"; // Path to your JSON file
+	 private static final String JSON_FILE = "D:\\Srajan-Intern\\OneDrive - EDS Technologies Pvt Ltd\\Desktop\\Eclipse\\TravelManagementSystem\\application.json"; // Path to your JSON file
 
 	    @Override
 	    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws IOException {

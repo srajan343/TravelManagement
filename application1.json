@@ -1,0 +1,74 @@
+{
+	"T002": {
+		"date": [
+			"2024-12-19",
+			"2024-12-20"
+		],
+		"empId": "test05",
+		"amount": [
+			"",
+			""
+		],
+		"manager_status": "pending",
+		"finance_status": "pending",
+		"destination": [
+			"San Francisco",
+			"San Francisco"
+		],
+		"source": [
+			"New York",
+			"New York"
+		],
+		"type": [
+			"Bus",
+			"Train"
+		],
+		"manager_name": "Raju",
+		"manager_id": "test03",
+		"name": "Amit",
+		"self": "no",
+		"admin_status": "pending",
+		"receipt": [
+			"",
+			""
+		],
+		"customer_name": "ADANI",
+		"remarks": ""
+	},
+	"T001": {
+		"date": [
+			"2024-12-19",
+			"2024-12-20"
+		],
+		"empId": "test05",
+		"amount": [
+			"1000",
+			"2000"
+		],
+		"manager_status": "pending",
+		"finance_status": "pending",
+		"destination": [
+			"San Francisco",
+			"Seattle"
+		],
+		"employee_name": "Amit",
+		"source": [
+			"New York",
+			"New York"
+		],
+		"type": [
+			"Bus",
+			"Train"
+		],
+		"manager_name": "Raju",
+		"manager_id": "test03",
+		"self": "yes",
+		"admin_status": "pending",
+		"receipt": [
+			"file_1734583882237_0_test05.pdf",
+			"file_1734583882237_1_test05.pdf"
+		],
+		"customer_name": "TVS",
+		"remarks": ""
+	}
+}

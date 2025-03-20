@@ -1,0 +1,521 @@
+{
+	"T008": {
+		"date": [
+			"2024-12-19",
+			"2024-12-20"
+		],
+		"empId": "i111",
+		"Destination": [
+			"Chennai",
+			"Bangalore"
+		],
+		"amount": [
+			"1000",
+			"1500"
+		],
+		"manager_status": "approved",
+		"finance_status": "pending",
+		"source": [
+			"Bangalore",
+			"Pune"
+		],
+		"type": [
+			"Air",
+			"Train"
+		],
+		"manager_name": "Raju",
+		"manager_id": "test03",
+		"name": "Shravan S A",
+		"self": "no",
+		"admin_status": "pending",
+		"receipt": [
+			"file_1734627020072_0_i111.pdf",
+			"file_1734627020073_1_i111.pdf"
+		],
+		"customer_name": "TVS",
+		"remarks": ""
+	},
+	"T009": {
+		"date": [
+			"2024-12-19"
+		],
+		"empId": "i112",
+		"Destination": [
+			"Kolkata"
+		],
+		"amount": [
+			""
+		],
+		"manager_status": "pending",
+		"finance_status": "pending",
+		"source": [
+			"Bangalore"
+		],
+		"type": [
+			"Train"
+		],
+		"manager_name": "Shravan S A",
+		"manager_id": "i111",
+		"name": "Srajan S",
+		"self": "no",
+		"admin_status": "pending",
+		"receipt": [
+			""
+		],
+		"customer_name": "Dassault",
+		"remarks": ""
+	},
+	"T006": {
+		"date": [
+			"2024-12-29"
+		],
+		"empId": "I110",
+		"Destination": [
+			"Gurgaon"
+		],
+		"amount": [
+			""
+		],
+		"manager_status": "approved",
+		"finance_status": "pending",
+		"source": [
+			"Bangalore"
+		],
+		"type": [
+			"Bus"
+		],
+		"manager_name": "Manajunatha",
+		"manager_id": "1001",
+		"name": "Abhishek U",
+		"self": "no",
+		"admin_status": "approved",
+		"receipt": [
+			""
+		],
+		"customer_name": "Sopra",
+		"remarks": "Rejestion testing"
+	},
+	"T017": {
+		"date": [
+			"2024-12-21"
+		],
+		"empId": "519595",
+		"Destination": [
+			"Chennai"
+		],
+		"amount": [
+			"5000"
+		],
+		"manager_status": "approved",
+		"finance_status": "settled",
+		"source": [
+			"Kolkata"
+		],
+		"type": [
+			"Bus"
+		],
+		"manager_name": "Vijay",
+		"manager_id": "test01",
+		"name": "Girish",
+		"self": "yes",
+		"admin_status": "pending",
+		"receipt": [
+			"file_1734667388194_0_519595.pdf"
+		],
+		"customer_name": "Dassault",
+		"remarks": ""
+	},
+	"T007": {
+		"date": [
+			"2024-12-20",
+			"2024-12-20"
+		],
+		"empId": "1001",
+		"Destination": [
+			"Mumbai",
+			"Gurgaon"
+		],
+		"amount": [
+			"200",
+			""
+		],
+		"manager_status": "approved",
+		"finance_status": "settled",
+		"source": [
+			"Bangalore",
+			"Mumbai"
+		],
+		"type": [
+			"Bus",
+			"Bus"
+		],
+		"manager_name": "Senthil",
+		"manager_id": "91101",
+		"name": "Manjunatha",
+		"self": "yes",
+		"admin_status": "pending",
+		"receipt": [
+			"file_1734611400703_0_1001.pdf",
+			""
+		],
+		"customer_name": "TVS",
+		"remarks": ""
+	},
+	"T004": {
+		"date": [
+			"2024-12-19"
+		],
+		"empId": "test03",
+		"Destination": [
+			"San Francisco"
+		],
+		"amount": [
+			"1000"
+		],
+		"manager_status": "rejected",
+		"finance_status": "rejected",
+		"source": [
+			"New York"
+		],
+		"type": [
+			"Bus"
+		],
+		"manager_name": "Shravan S A",
+		"manager_id": "i111",
+		"name": "Raju",
+		"self": "yes",
+		"admin_status": "pending",
+		"receipt": [
+			"file_1734601035142_0_test03.pdf"
+		],
+		"customer_name": "TVS",
+		"remarks": ""
+	},
+	"T015": {
+		"date": [
+			"2024-12-14"
+		],
+		"empId": "i110",
+		"Destination": [
+			"Delhi"
+		],
+		"amount": [
+			""
+		],
+		"manager_status": "pending",
+		"finance_status": "pending",
+		"source": [
+			"Chennai"
+		],
+		"type": [
+			"Bus"
+		],
+		"manager_name": "Raju",
+		"manager_id": "test03",
+		"name": "Abhishek U",
+		"self": "no",
+		"admin_status": "pending",
+		"receipt": [
+			""
+		],
+		"customer_name": "TVS",
+		"remarks": ""
+	},
+	"T016": {
+		"date": [
+			"2024-12-19",
+			"2024-12-20"
+		],
+		"empId": "i111",
+		"Destination": [
+			"Chennai",
+			"Bangalore"
+		],
+		"amount": [
+			"1000",
+			"1500"
+		],
+		"manager_status": "pending",
+		"finance_status": "pending",
+		"source": [
+			"Bangalore",
+			"Pune"
+		],
+		"type": [
+			"Air",
+			"Train"
+		],
+		"manager_name": "Senthil",
+		"manager_id": "91101",
+		"name": "Shravan S A",
+		"self": "yes",
+		"admin_status": "pending",
+		"receipt": [
+			"file_1734627020072_0_i111.pdf",
+			"file_1734627020073_1_i111.pdf"
+		],
+		"customer_name": "TVS",
+		"remarks": ""
+	},
+	"T005": {
+		"date": [
+			"2024-12-30",
+			"2024-12-07"
+		],
+		"empId": "I110",
+		"Destination": [
+			"Gurgaon",
+			"Bangalore"
+		],
+		"amount": [
+			"",
+			""
+		],
+		"manager_status": "rejected",
+		"finance_status": "rejected",
+		"source": [
+			"Bangalore",
+			"Chennai"
+		],
+		"type": [
+			"Air",
+			"Bus"
+		],
+		"manager_name": "Manjunatha",
+		"manager_id": "1001",
+		"name": "Abhishek U",
+		"self": "no",
+		"admin_status": "pending",
+		"receipt": [
+			"",
+			""
+		],
+		"customer_name": "Sopra Steria",
+		"remarks": ""
+	},
+	"T002": {
+		"date": [
+			"2024-12-19",
+			"2024-12-20"
+		],
+		"empId": "test05",
+		"Destination": [
+			"San Francisco",
+			"Houston"
+		],
+		"amount": [],
+		"manager_status": "approved",
+		"finance_status": "pending",
+		"source": [
+			"New York",
+			"Los Angeles"
+		],
+		"type": [
+			"Bus",
+			"Train"
+		],
+		"manager_name": "Manjunatha",
+		"manager_id": "1001",
+		"name": "Amit",
+		"self": "no",
+		"admin_status": "approved",
+		"receipt": [
+			"file_1734586074730_0_test05.pdf",
+			"file_1734586074730_0_test05.pdf"
+		],
+		"customer_name": "Synopsys",
+		"remarks": "Hi\n"
+	},
+	"T013": {
+		"date": [],
+		"empId": "i110",
+		"Destination": [],
+		"amount": [],
+		"manager_status": "pending",
+		"finance_status": "pending",
+		"source": [],
+		"type": [],
+		"manager_name": "Raju",
+		"manager_id": "test03",
+		"name": "Abhishek U",
+		"self": "yes",
+		"admin_status": "pending",
+		"receipt": [],
+		"customer_name": "TVS",
+		"remarks": ""
+	},
+	"T003": {
+		"date": [
+			"2024-12-19",
+			"2024-12-20"
+		],
+		"empId": "test05",
+		"Destination": [
+			"San Francisco",
+			"Houston"
+		],
+		"amount": [
+			"1000",
+			"1500"
+		],
+		"manager_status": "pending",
+		"finance_status": "pending",
+		"source": [
+			"New York",
+			"Los Angeles"
+		],
+		"type": [
+			"Bus",
+			"Train"
+		],
+		"manager_name": "Raju",
+		"manager_id": "test03",
+		"name": "Amit",
+		"self": "yes",
+		"admin_status": "pending",
+		"receipt": [
+			"file_1734586074730_0_test05.pdf",
+			"file_1734586074730_0_test05.pdf"
+		],
+		"customer_name": "Synopsys",
+		"remarks": ""
+	},
+	"T014": {
+		"date": [
+			"2024-12-27"
+		],
+		"empId": "i110",
+		"Destination": [
+			"Bangalore"
+		],
+		"amount": [
+			""
+		],
+		"manager_status": "pending",
+		"finance_status": "pending",
+		"source": [
+			"Chennai"
+		],
+		"type": [
+			"Bus"
+		],
+		"manager_name": "Raju",
+		"manager_id": "test03",
+		"name": "Abhishek U",
+		"self": "no",
+		"admin_status": "pending",
+		"receipt": [
+			""
+		],
+		"customer_name": "TVS",
+		"remarks": ""
+	},
+	"T011": {
+		"date": [],
+		"empId": "i110",
+		"Destination": [],
+		"amount": [],
+		"manager_status": "pending",
+		"finance_status": "pending",
+		"source": [],
+		"type": [],
+		"manager_name": "Raju",
+		"manager_id": "test03",
+		"name": "Abhishek U",
+		"self": "no",
+		"admin_status": "pending",
+		"receipt": [],
+		"customer_name": "TVS",
+		"remarks": ""
+	},
+	"T001": {
+		"date": [
+			"2024-12-19",
+			"2024-12-20"
+		],
+		"empId": "test05",
+		"Destination": [
+			"San Francisco",
+			"Houston"
+		],
+		"amount": [
+			"1000",
+			"2000"
+		],
+		"manager_status": "pending",
+		"finance_status": "pending",
+		"source": [
+			"New York",
+			"Los Angeles"
+		],
+		"type": [
+			"Bus",
+			"Train"
+		],
+		"manager_name": "Raju",
+		"manager_id": "test03",
+		"name": "Amit",
+		"self": "yes",
+		"admin_status": "pending",
+		"receipt": [
+			"file_1734586074730_0_test05.pdf",
+			"file_1734586074730_0_test05.pdf"
+		],
+		"customer_name": "Synopsys",
+		"remarks": ""
+	},
+	"T012": {
+		"date": [],
+		"empId": "i110",
+		"Destination": [],
+		"amount": [],
+		"manager_status": "rejected",
+		"finance_status": "rejected",
+		"source": [],
+		"type": [],
+		"manager_name": "Raju",
+		"manager_id": "test03",
+		"name": "Abhishek U",
+		"self": "no",
+		"admin_status": "pending",
+		"receipt": [],
+		"customer_name": "Dassault",
+		"remarks": "Data in suffiennt please provide from and to "
+	},
+	"T010": {
+		"date": [
+			"2024-12-20",
+			"2024-12-20"
+		],
+		"empId": "i110",
+		"Destination": [
+			"Chennai",
+			"Select Location"
+		],
+		"amount": [
+			"",
+			""
+		],
+		"manager_status": "pending",
+		"finance_status": "pending",
+		"source": [
+			"Bangalore",
+			"Select Location"
+		],
+		"type": [
+			"Bus",
+			"Bus"
+		],
+		"manager_name": "Raju",
+		"manager_id": "test03",
+		"name": "Abhishek U",
+		"self": "no",
+		"admin_status": "pending",
+		"receipt": [
+			"",
+			""
+		],
+		"customer_name": "Dassault",
+		"remarks": ""
+	}
+}

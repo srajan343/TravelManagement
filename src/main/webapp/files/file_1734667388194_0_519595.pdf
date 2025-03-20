@@ -1,0 +1,22 @@
+Changes
+
+
+
+- While editing manager it is shwoing in th manager dropdown even tough he is not a manager
+
+- thefinance dashboard is noit chowing the pending applicaiton
+
+-- here the application when manager is changed that data will be showed 
+
+
+
+
+-- TODO
+
+		-- Apply form for the empllyee and manager
+
+--19/12
+
+	-- threading for the mails,
+	-- If we remove the employee from manager need to implement the same thing to transfer the manager and reflect it ot the employee
+		-- If we remove a employee from manager then need ot implement the transfer the manager to the respective employee

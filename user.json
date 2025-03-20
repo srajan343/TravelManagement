@@ -1,0 +1,125 @@
+{
+	"91101": {
+		"manager_name": "",
+		"password": "Qwerty@123",
+		"manager_id": "",
+		"empType": "superManager",
+		"name": "Senthil",
+		"active": "yes",
+		"location": "Bangalore",
+		"profileImg": "static\/profile-img\/default-img.png",
+		"email": "vinayakadodmani@gmail.com"
+	},
+	"91344": {
+		"manager_name": "Vijay Babu",
+		"password": "Qwerty@123",
+		"manager_id": "911427",
+		"empType": "manager",
+		"name": "Prasanna H",
+		"isManager": false,
+		"active": "yes",
+		"location": "Bangalore",
+		"app_no": "",
+		"profileImg": "static\/profile-img\/91344.png",
+		"email": "vinayakadodmani@gmail.com"
+	},
+	"i110": {
+		"manager_name": "Prasanna H",
+		"password": "Qwerty@123",
+		"manager_id": "91344",
+		"empType": "manager",
+		"name": "Abhishek u",
+		"isManager": false,
+		"active": "yes",
+		"location": "Bangalore",
+		"app_no": "",
+		"profileImg": "static\/profile-img\/i110.png",
+		"email": "vinayakadodmani@gmail.com"
+	},
+	"i111": {
+		"manager_name": "Prasanna H",
+		"password": "Qwerty@123",
+		"manager_id": "91344",
+		"empType": "user",
+		"name": "Shravan S",
+		"isManager": false,
+		"active": "yes",
+		"location": "Bangalore",
+		"app_no": "",
+		"profileImg": "static\/profile-img\/default-img.png",
+		"email": "vinayakadodmani@gmail.com"
+	},
+	"admin": {
+		"password": "admin",
+		"profileImg": "static\/profile-img\/admin.png",
+		"user": "admin"
+	},
+	"i112": {
+		"manager_name": "Kiran",
+		"password": "Qwerty@123",
+		"manager_id": "91805",
+		"empType": "user",
+		"name": "Srajan S",
+		"isManager": false,
+		"active": "no",
+		"location": "Bangalore",
+		"app_no": "",
+		"profileImg": "static\/profile-img\/default-img.png",
+		"email": "vinayakadodmani@gmail.com"
+	},
+	"i115": {
+		"manager_name": "Prasanna H",
+		"password": "Qwerty@123",
+		"manager_id": "91344",
+		"empType": "user",
+		"name": "Vinayaka M",
+		"isManager": false,
+		"active": "yes",
+		"location": "Bangalore",
+		"app_no": "",
+		"profileImg": "static\/profile-img\/i115.png",
+		"email": "Vinayaka.intern@edstechnologies.com"
+	},
+	"911427": {
+		"manager_name": "Senthil",
+		"password": "Qwerty@123",
+		"manager_id": "91101",
+		"empType": "manager",
+		"name": "Vijay Babu",
+		"isManager": false,
+		"active": "yes",
+		"location": "Bangalore",
+		"app_no": "",
+		"profileImg": "static\/profile-img\/default-img.png",
+		"email": "vinayakadodmani@gmail.com"
+	},
+	"finance": {
+		"password": "finance",
+		"profileImg": "static\/profile-img\/finance.png",
+		"user": "finance"
+	},
+	"911040": {
+		"manager_name": "Senthil",
+		"password": "Qwerty@123",
+		"empType": "manager",
+		"manager_id": "91101",
+		"name": "Anthony",
+		"active": "yes",
+		"location": "Bangalore",
+		"app_no": "",
+		"profileImg": "static\/profile-img\/default-img.png",
+		"email": "vinayakadodmani@gmail.com"
+	},
+	"91805": {
+		"manager_name": "Vijay Babu",
+		"password": "Qwerty@123",
+		"empType": "manager",
+		"manager_id": "911427",
+		"name": "Kiran",
+		"active": "yes",
+		"location": "Chennai",
+		"app_no": "",
+		"profileImg": "static\/profile-img\/default-img.png",
+		"email": "vinayakadodmani@gmail.com"
+	}
+}

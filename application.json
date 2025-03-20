@@ -1,0 +1,232 @@
+{
+	"T006": {
+		"date": [
+			"2024-12-21",
+			"2024-12-22"
+		],
+		"empId": "i110",
+		"Destination": [
+			"Chennai",
+			"Bangalore"
+		],
+		"amount": [
+			"1000",
+			"1200"
+		],
+		"manager_status": "pending",
+		"finance_status": "pending",
+		"manResponseOn": "21\/12\/2024, 17:17",
+		"source": [
+			"Bangalore",
+			"Pune"
+		],
+		"type": [
+			"Train",
+			"Bus"
+		],
+		"manager_name": "Prasanna H",
+		"manager_id": "91344",
+		"applied_on": "21\/12\/2024, 16:57",
+		"name": "Abhishek u",
+		"self": "yes",
+		"admin_status": "pending",
+		"receipt": [
+			"file_1734780440616_0_i110.png",
+			"file_1734780440616_0_i110.png"
+		],
+		"customer_name": "shophie",
+		"remarks": "hi"
+	},
+	"T007": {
+		"date": [
+			"2024-12-24"
+		],
+		"empId": "i115",
+		"Destination": [
+			"Bangalore"
+		],
+		"amount": [
+			"1000"
+		],
+		"manager_status": "approved",
+		"finance_status": "pending",
+		"manResponseOn": "24\/12\/2024, 11:20",
+		"source": [
+			"Pune"
+		],
+		"type": [
+			"Bus"
+		],
+		"manager_name": "Prasanna H",
+		"manager_id": "91344",
+		"applied_on": "24\/12\/2024, 11:20",
+		"name": "Vinayaka M",
+		"self": "yes",
+		"admin_status": "pending",
+		"receipt": [
+			"file_1735019414536_0_i115.pdf"
+		],
+		"customer_name": "Synopsys",
+		"remarks": ""
+	},
+	"T004": {
+		"date": [
+			"2024-12-21"
+		],
+		"empId": "i115",
+		"Destination": [
+			"Pune"
+		],
+		"amount": [
+			"200"
+		],
+		"manager_status": "approved",
+		"finance_status": "pending",
+		"manResponseOn": "21\/12\/2024, 15:14",
+		"adminResponseOn": "24\/12\/2024, 10:46",
+		"source": [
+			"Bangalore"
+		],
+		"type": [
+			"Bus"
+		],
+		"manager_name": "Prasanna H",
+		"manager_id": "91344",
+		"applied_on": "21\/12\/2024, 15:13",
+		"name": "Vinayaka M",
+		"self": "yes",
+		"admin_status": "pending",
+		"receipt": [
+			"file_1734774230089_0_i115.pdf"
+		],
+		"customer_name": "asdsad",
+		"remarks": ""
+	},
+	"T005": {
+		"date": [
+			"2024-12-21"
+		],
+		"empId": "i110",
+		"Destination": [
+			"Pune"
+		],
+		"amount": [
+			"1000"
+		],
+		"manager_status": "approved",
+		"finance_status": "pending",
+		"manResponseOn": "21\/12\/2024, 17:17",
+		"source": [
+			"Bangalore"
+		],
+		"type": [
+			"Bus"
+		],
+		"manager_name": "Prasanna H",
+		"manager_id": "91344",
+		"applied_on": "21\/12\/2024, 16:44",
+		"name": "Abhishek u",
+		"self": "yes",
+		"admin_status": "pending",
+		"receipt": [
+			"file_1734779692881_0_i110.pdf"
+		],
+		"customer_name": "Dassault",
+		"remarks": ""
+	},
+	"T002": {
+		"date": [
+			"2024-12-21"
+		],
+		"empId": "i115",
+		"Destination": [
+			"Chennai"
+		],
+		"amount": [
+			""
+		],
+		"manager_status": "approved",
+		"finance_status": "pending",
+		"manResponseOn": "21\/12\/2024, 15:05",
+		"adminResponseOn": "25\/12\/2024, 11:23",
+		"source": [
+			"Bangalore"
+		],
+		"type": [
+			"Bus"
+		],
+		"manager_name": "Prasanna H",
+		"manager_id": "91344",
+		"applied_on": "21\/12\/2024, 15:03",
+		"name": "Vinayaka M",
+		"self": "no",
+		"admin_status": "approved",
+		"receipt": [
+			""
+		],
+		"customer_name": "Dassault",
+		"remarks": ""
+	},
+	"T003": {
+		"date": [
+			"2024-12-21"
+		],
+		"empId": "91344",
+		"Destination": [
+			"Chennai"
+		],
+		"amount": [
+			""
+		],
+		"manager_status": "pending",
+		"finance_status": "pending",
+		"source": [
+			"Bangalore"
+		],
+		"type": [
+			"Bus"
+		],
+		"manager_name": "Vijay Babu",
+		"manager_id": "911427",
+		"applied_on": "21\/12\/2024, 15:04",
+		"name": "Prasanna H",
+		"self": "no",
+		"admin_status": "pending",
+		"receipt": [
+			""
+		],
+		"customer_name": "Synopsys",
+		"remarks": ""
+	},
+	"T001": {
+		"date": [
+			"2024-12-21"
+		],
+		"empId": "91344",
+		"Destination": [
+			"Bangalore"
+		],
+		"amount": [
+			"1000"
+		],
+		"manager_status": "pending",
+		"finance_status": "pending",
+		"source": [
+			"Chennai"
+		],
+		"type": [
+			"Bus"
+		],
+		"manager_name": "Vijay Babu",
+		"manager_id": "911427",
+		"applied_on": "21\/12\/2024, 14:56",
+		"name": "Prasanna H",
+		"self": "yes",
+		"admin_status": "pending",
+		"receipt": [
+			"file_1734773214161_0_91344.pdf"
+		],
+		"customer_name": "Dassault",
+		"remarks": ""
+	}
+}
